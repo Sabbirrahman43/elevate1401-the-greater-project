@@ -1,0 +1,7 @@
+{
+  "name": "Elevate1401",
+  "description": "A comprehensive productivity tracker powered by Pranto AI, featuring habit tracking, personalized motivation, and progress visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
